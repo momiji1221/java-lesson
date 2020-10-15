@@ -22,7 +22,7 @@ for java experiment
 
 ## 核心方法
 '''
-CPU cpu=new CPU(); 
+    CPU cpu=new CPU(); 
 
     cpu.speed=2200; 
 
